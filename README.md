@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marilainny Martins</h1>
+<img src="https://user-images.githubusercontent.com/25926362/171791186-2c345070-f00f-4236-aada-e1a32e03b11b.png" alt="drawing" width="20"/> Hi, I'm Marilainny Martins</h1>
 
 <ul type=circle>
   <li>🔭 I’m currently working on requirements analysis</li>
